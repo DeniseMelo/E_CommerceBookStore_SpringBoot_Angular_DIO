@@ -1,2 +1,2 @@
 # E_CommerceBookStore_SpringBoot_Angular_DIO
-Projeto realizado após conclusão da última aula da DIO, no frontend, foi utilizado Angular  e os recursos do Bootstrap, e para o BackEnd Java SpringBoot além do Mysql
+Projeto realizado após conclusão da última aula do módulo de Angular da DIO, em que teríamos que consumir uma API. Esta API foi disponibilizada em C#, mas como o curso é de Java Full Stack, mais coerente foi criar a minha própria API com Java. No frontend, foi utilizado Angular  e os recursos do Bootstrap, e para o BackEnd Java SpringBoot além do banco de dados Mysql.
